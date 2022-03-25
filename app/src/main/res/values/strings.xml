@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QUIZLY</string>
+    <string name="main_newGame_btn">New Game</string>
+    <string name="main_about_btn">About</string>
+    <string name="Author_image">Author_image</string>
+    <string name="myName">Ramitha Manathunga</string>
+    <string name="myStudentId">w1838858</string>
+    <string name="message">I confirm that i understand what plagiarism is and have read and understood the section on Assessment Offence in the Essential Information for Students. The work that I have submitted is entirely my own. Any work from other Authors is duly referenced and acknowledged</string>
+    <string name="firstNumber">fEquation</string>
+    <string name="secondNumber">sEquation</string>
+    <string name="greaterBtn">GREATER</string>
+    <string name="equalBtn">==</string>
+    <string name="lessBtn">LESS</string>
+    <string name="correctPop">CORRECT!</string>
+    <string name="wrongPop">WRONG!</string>
+    <string name="description">player have to indicate whether the evaluation of the expression on the left is grater than, equal or less than the evaluation of the right</string>
+</resources>
